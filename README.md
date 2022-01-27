@@ -5,6 +5,16 @@ To-do type of Project
 
 Built using Java Servlets, Hibernate Framework and MySQL Database.
 
+Steps to RUN project : 
+  1) Download zip and extract it.
+  2) open in eclipse editor.
+  3) Add server files.
+  4) connect hibernate to server ( Right click the project -> Build Path -> Configure Build Path
+
+In the list at left side click on Deployment Assembly. Click "Add" button. Select "Java Build Path Entries" and click next. Now select your hibernate jar files or library. Click finish. Then click Ok.
+Restart the server if necessary.
+)
+
 
 Screenshot of application :- 
 
