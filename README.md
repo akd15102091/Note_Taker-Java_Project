@@ -1,7 +1,7 @@
 # Note_Taker-Java_Project
 
 
-To-do type of Project
+To-do type of Project which demonstrates how we can build the web application using JSP, Servlets and MySQL and How we can con use HIBERNATE framework.
 
 Built using Java Servlets, Hibernate Framework and MySQL Database.
 
